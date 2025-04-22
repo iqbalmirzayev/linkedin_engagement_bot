@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+python-dotenv
+requests
+aiogram
+uvicorn
+fastapi
